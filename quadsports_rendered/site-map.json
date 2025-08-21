@@ -1,0 +1,71 @@
+[
+  {
+    "url": "https://www.quadsports.org",
+    "fileName": "www.quadsports.org.html",
+    "title": "Co-ed Youth Sports League | Quad Sports | Texas",
+    "description": "Quad Sports is the premier non profit youth sports league for the Katy, Richmond, Rosenberg and Fulshear, Texas area. We offer NFL Flag Football, Soccer, Speed Clinics and more!",
+    "wordCount": 3150,
+    "lastModified": ""
+  },
+  {
+    "url": "https://www.quadsports.org/services-5",
+    "fileName": "www.quadsports.org_services-5.html",
+    "title": "Failed to load",
+    "description": "",
+    "wordCount": 0,
+    "lastModified": "",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.quadsports.org/services-5\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "url": "https://www.quadsports.org/about-us",
+    "fileName": "www.quadsports.org_about-us.html",
+    "title": "OUR CAUSE | Quad Sports",
+    "description": "Quad Sports focuses on teaching your child the fundamental skills for their respective sport in a fun, safe and inviting environment.",
+    "wordCount": 3265,
+    "lastModified": ""
+  },
+  {
+    "url": "https://www.quadsports.org/get-involved",
+    "fileName": "www.quadsports.org_get-involved.html",
+    "title": "Failed to load",
+    "description": "",
+    "wordCount": 0,
+    "lastModified": "",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.quadsports.org/get-involved\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "url": "https://www.quadsports.org/league-news",
+    "fileName": "www.quadsports.org_league-news.html",
+    "title": "Failed to load",
+    "description": "",
+    "wordCount": 0,
+    "lastModified": "",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.quadsports.org/league-news\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "url": "https://www.quadsports.org/resources",
+    "fileName": "www.quadsports.org_resources.html",
+    "title": "Failed to load",
+    "description": "",
+    "wordCount": 0,
+    "lastModified": "",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.quadsports.org/resources\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "url": "https://www.quadsports.org/contact",
+    "fileName": "www.quadsports.org_contact.html",
+    "title": "Failed to load",
+    "description": "",
+    "wordCount": 0,
+    "lastModified": "",
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.quadsports.org/contact\", waiting until \"networkidle\"\u001b[22m\n"
+  },
+  {
+    "url": "https://www.quadsports.org/pages-sitemap.xml",
+    "fileName": "www.quadsports.org_pages-sitemap.xml.html",
+    "title": "",
+    "description": "",
+    "wordCount": 149,
+    "lastModified": ""
+  }
+]
